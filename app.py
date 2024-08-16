@@ -4,7 +4,7 @@ import os
 
 # initialize flask application
 app = Flask(__name__)
-server = app.server
+server = app
 
 
 # home screen route
